@@ -19,7 +19,7 @@
 #### VISTA ESCOGIDA
 
 <center>
-[**Vista de la Pagina de Citas**](https://lh3.googleusercontent.com/bYD8wl8t8aB3OCdplddQEWwlcRtnMSI4kdzYQu4H_W5an3QkEgr_8gcP2maxAZKYkQ=w1821-h898-rw "Vista de Citas"
+[**Vista de la Pagina de Citas**](https://lh3.googleusercontent.com/bYD8wl8t8aB3OCdplddQEWwlcRtnMSI4kdzYQu4H_W5an3QkEgr_8gcP2maxAZKYkQ=w1821-h898-rw "Vista de Citas")
 </center>
 
 ### Golfos
