@@ -12,13 +12,14 @@
 
 #### [Clinica San Pablo - App](https://play.google.com/store/apps/details?id=pe.com.sanpablo)
 
-
+<html>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FD2Kl8J7TWA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</html>
 
 #### VISTA ESCOGIDA
 
 <center>
-![**Vista de la Pagina de Citas**](https://lh3.googleusercontent.com/bYD8wl8t8aB3OCdplddQEWwlcRtnMSI4kdzYQu4H_W5an3QkEgr_8gcP2maxAZKYkQ=w1821-h898-rw "Vista de Citas")
+[**Vista de la Pagina de Citas**](https://lh3.googleusercontent.com/bYD8wl8t8aB3OCdplddQEWwlcRtnMSI4kdzYQu4H_W5an3QkEgr_8gcP2maxAZKYkQ=w1821-h898-rw "Vista de Citas"
 </center>
 
 ### Golfos
