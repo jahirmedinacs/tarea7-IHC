@@ -12,7 +12,7 @@
 
 #### [Clinica San Pablo - App](https://play.google.com/store/apps/details?id=pe.com.sanpablo)
 
-"https://www.youtube.com/embed/FD2Kl8J7TWA"
+![[Video del Aplicativo](https://img.youtube.com/vi/FD2Kl8J7TWA/0.jpg)](https://www.youtube.com/embed/FD2Kl8J7TWA)
 
 #### VISTA ESCOGIDA
 
